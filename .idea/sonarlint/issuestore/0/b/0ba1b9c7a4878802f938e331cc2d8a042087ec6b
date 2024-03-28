@@ -1,2 +1,11 @@
 
-E	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ
+}
+java:S1161":Add the "@Override" annotation above this method signature(½¨¤ó8¯ßÿ´è1J$6114ad0e-49fe-4ab4-b8f5-5c4386109a4d
+“
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(â«ÙŸ8´ßÿ´è1J$c1c3a9bd-d98e-493d-8f46-22d9a62b2510
+“
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ž’Ä»8µßÿ´è1J$a806e557-6dcf-478b-b975-9fda363d9acb
+˜
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ªßóÎúÿÿÿÿ8¶ßÿ´è1J$36b9fc6e-bc7b-4e39-86c8-fe47a270e263
+˜
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(Ä¾šˆúÿÿÿÿ8¹ßÿ´è1J$24df2a21-846b-4274-b592-1f2052126797
